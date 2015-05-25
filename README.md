@@ -1,2 +1,2 @@
 # bash-aliases
-ba(sh) aliases I commonly use
+Collection of ba(sh) aliases, functions and scripts I commonly use
